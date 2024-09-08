@@ -1,0 +1,15 @@
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\bin\Debug\net8.0\CLI Task Manager.exe
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\bin\Debug\net8.0\CLI Task Manager.deps.json
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\bin\Debug\net8.0\CLI Task Manager.runtimeconfig.json
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\bin\Debug\net8.0\CLI Task Manager.dll
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\bin\Debug\net8.0\CLI Task Manager.pdb
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\CLI Task Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\CLI Task Manager.AssemblyInfoInputs.cache
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\CLI Task Manager.AssemblyInfo.cs
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\CLI Task Manager.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\CLI Task Manager.sourcelink.json
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\CLI Task Manager.dll
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\refint\CLI Task Manager.dll
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\CLI Task Manager.pdb
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\CLI Task Manager.genruntimeconfig.cache
+C:\Users\hp\Documents\backend projects\cli task manager\CLI Task Manager\obj\Debug\net8.0\ref\CLI Task Manager.dll
